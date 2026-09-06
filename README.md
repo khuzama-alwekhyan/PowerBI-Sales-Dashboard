@@ -9,8 +9,8 @@ This project is an interactive Power BI dashboard designed to analyze sales perf
 * Analyze units sold by product
 * Compare sales performance between cities
 * Analyze sales trends over time
-* Identify top-performing products and cities
-* Provide interactive business insights
+* Identify top-performing products 
+* Analyze business performance with interactive dashboards
 
 📑 Dashboard Pages 
 Page 1 — Sales Overview The first page provides an overview of the company's sales performance, including:
